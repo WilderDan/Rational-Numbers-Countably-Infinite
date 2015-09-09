@@ -1,5 +1,5 @@
-#
-Shows that the set of positive rational numbers is a countably infinite set.
+#Rational-Numbers-Countably-Infinite
+Program demonstrating that the set of positive rational numbers is a countably infinite set.
 
 Syntax: executable NUM {anything_lol}
 
